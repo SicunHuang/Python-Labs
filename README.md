@@ -1,1 +1,1 @@
-This repository contains all the projects I did for CS150- Computing for Science during Spring 2022 in Middlebury College, as well as txt and png files necessary for running the codes
+This repository contains all the projects I did for CS150- Computing for Science during Spring 2022 in Middlebury College, as well as txt and png files necessary for running the codes. Project types include interactive game (e.g lab 10, lab 4), shape drawing with recursive functions (e.g lab 9), web scrapping (e.g lab 7), data analysis (e.g lab 5)
